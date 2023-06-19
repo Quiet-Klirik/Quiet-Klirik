@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Quiet-Klirik
 - 🌱 I’m currently learning Python
-- 📫 My Telegram or Instagram: @Quiet_Klirik
+- 📫 My Telegram: @Quiet_Klirik
