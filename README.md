@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Quiet-Klirik
-- 👨‍💻 Python Developer (Backed in general)
+- 👨‍💻 Python Developer (Backend in general)
 - 📫 My Telegram: @Quiet_Klirik
