@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <p align="center">
   <h2 align="center">Hi, I'm Yaroslav Lysiuk [ Quiet Klirik ] 😉</h2>
 </p>
@@ -47,4 +48,5 @@ Hello, I'm a Python developer with over two years of freelancing experience, spe
   <img src="https://img.shields.io/badge/-Git\Github-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
   <br><br><br><br>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <!-- markdownlint-enable MD033 -->
